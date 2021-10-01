@@ -76,6 +76,7 @@ p {
 }
 
 .sign-in-button {
+    cursor: pointer;
     width: 110px;
     grid-column: 2;
     background-color: var(--link-blue);
